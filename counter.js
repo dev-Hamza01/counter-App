@@ -40,3 +40,6 @@ resetBtn.addEventListener("click", function () {
         }
     } 
 });
+
+
+let counter = 22;
